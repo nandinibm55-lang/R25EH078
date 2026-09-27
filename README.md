@@ -11,4 +11,7 @@ My goal is to become a Data Scientist and develop innovative solutions using art
 - Learning new programming languages
 - Exploring innovative technologies
 - Problem-solving
-  
+  ## Projects
+
+### Smart Farming and Crop Monitoring System
+A project focused on using technology to support farming and crop monitoring. It aims to help improve agricultural practices through smart, data-driven solutions.
